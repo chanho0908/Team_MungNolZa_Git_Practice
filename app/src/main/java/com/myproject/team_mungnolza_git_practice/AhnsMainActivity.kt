@@ -15,6 +15,8 @@ class AhnsMainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_ahns_main)
 
+
+        place = "송파"
         name = "최나연"
         nickName = "카리나"
 
