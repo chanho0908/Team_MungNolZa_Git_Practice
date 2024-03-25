@@ -15,7 +15,9 @@ class AhnsMainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_ahns_main)
 
-        name = "카리나"
-        Toast.makeText(this,"$place $name $name",Toast.LENGTH_LONG).show()
+        name = "최나연"
+        nickName = "카리나"
+
+        Toast.makeText(this,"$place $nickName $name",Toast.LENGTH_LONG).show()
     }
 }
