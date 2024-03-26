@@ -1,4 +1,4 @@
-# Team_MungNolZa_Gti_Practice
+## 🎺🚴‍♀️🤾‍♀️🤸‍♂️5팀 멍놀자 GitHub 놀이터⚽⚾🎱
 
 ## 👩‍💻 Git 기본 명령어<br>
 #### 변경사항 확인
