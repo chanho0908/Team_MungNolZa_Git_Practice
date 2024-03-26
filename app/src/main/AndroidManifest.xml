@@ -13,19 +13,7 @@
         android:theme="@style/Theme.Team_MungNolZa_Git_Practice"
         tools:targetApi="31">
         <activity
-            android:name=".Eunwoo2Activity"
-            android:exported="false" />
-        <activity
-            android:name=".EunwooActivity"
-            android:exported="false" />
-        <activity
-            android:name=".AhnsMainActivity"
-            android:exported="false" />
-        <activity
-            android:name=".ChanhoActivity"
-            android:exported="false" />
-        <activity
-            android:name=".MainActivity"
+            android:name=".ui.intro.StartActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -33,6 +21,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ui.intro.IntroActivity"
+            android:exported="true" />
+
+        <activity
+            android:name=".ui.MainActivity"
+            android:exported="true" />
     </application>
 
 </manifest>
